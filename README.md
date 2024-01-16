@@ -11,9 +11,9 @@ As a full-stack developer, I have hands-on experience in developing and integrat
 ## 🛠 Skills
 | Category                  | Technologies                                                      |
 |---------------------------|-------------------------------------------------------------------|
-| *Frontend*              | [![My Skills](https://skillicons.dev/icons?i=react,next,js,html,css,scss,jquery,ajax)](https://skillicons.dev)            |
+| *Frontend*              | [![My Skills](https://skillicons.dev/icons?i=react,next,js,html,css,scss,jquery,ajax&perline=6)](https://skillicons.dev)            |
 | *Backend*               | [![My Skills](https://skillicons.dev/icons?i=python,php)](https://skillicons.dev)                                                      |
-| *Frameworks/Libraries*  | [![My Skills](https://skillicons.dev/icons?i=django,laravel,jquery,bootstrap,materialui,tailwind,redux,)](https://skillicons.dev) |
+| *Frameworks/Libraries*  | [![My Skills](https://skillicons.dev/icons?i=django,laravel,jquery,bootstrap,materialui,tailwind,redux&perline=6)](https://skillicons.dev) |
 | *Database*       | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev) 
 | *Tools/IDE*       | [![My Skills](https://skillicons.dev/icons?i=vscode,atom,postman)](https://skillicons.dev)                                            
 | *Version Control*       | [![My Skills](https://skillicons.dev/icons?i=github,bitbucket)](https://skillicons.dev)                                            |
@@ -70,4 +70,15 @@ As a full-stack developer, I have hands-on experience in developing and integrat
 - [Fiverr](https://www.fiverr.com/shirshendughosh)
 
 - [Guru.com](https://www.guru.com/freelancers/shirshendu-ghosh)
+
+
+
+
+## Socials
+
+- [Skype](https://join.skype.com/invite/r1iP5Ji9NOY4)
+
+- [X formerly Twitter](https://twitter.com/Shirshendu_ghos)
+
+- [Gmail](mailto:shirshendu.ghosh93@gmail.com?subject=Test)
 
