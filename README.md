@@ -11,7 +11,7 @@ As a full-stack developer, I have hands-on experience in developing and integrat
 ## 🛠 Skills
 | Category                  | Technologies                                                      |
 |---------------------------|-------------------------------------------------------------------|
-| *Frontend*              | [![My Skills](https://skillicons.dev/icons?i=react,next,js,html,css,scss,jquery,ajax&perline=7)](https://skillicons.dev)            |
+| *Frontend*              | [![My Skills](https://skillicons.dev/icons?i=react,next,js,html,css,scss,jquery&perline=7)](https://skillicons.dev)            |
 | *Backend*               | [![My Skills](https://skillicons.dev/icons?i=python,php)](https://skillicons.dev)                                                      |
 | *Frameworks/Libraries*  | [![My Skills](https://skillicons.dev/icons?i=django,laravel,jquery,bootstrap,materialui,tailwind,redux&perline=7)](https://skillicons.dev) |
 | *Database*       | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev) 
