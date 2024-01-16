@@ -1,16 +1,45 @@
-### Hi there 👋
+### Hi there 👋 I'm Shirshendu
 
-<!--
-**shirshendughosh93/shirshendughosh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+I am a seasoned developer with more than 8+ years of industry experience in designing and developing mission-critical to daily use software and systems.
+
+As a full-stack developer, I have hands-on experience in developing and integrating ReactJs Apps along with API development in Python Django. I have worked on many PHP & and Laravel projects which quantify more than 8+ years of experience as a developer and team lead.
+
+
+## 🛠 Skills
+Frontend:
+• React Js
+• Next.js
+• JavaScript
+• HTML/CSS/Saas
+• AJAX
+
+Backend:
+• Python
+• PHP
+
+Frameworks/Libraries:
+• Django
+• Django Rest Framework (DRF)
+• Laravel
+• JQuery
+• Bootstrap
+• Material UI
+• Tailwind CSS
+• Redux/Redux thunk/redux toolkit
+• Formik
+
+Version Control:
+• Github
+• Bitbucket
+
+DevOps:
+• Docker
+• DigitalOcean droplets
+
+
