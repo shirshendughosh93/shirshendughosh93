@@ -1,5 +1,5 @@
 
-# Hi, I'm Shirshendu! 👋
+# Hi, I'm Katherine! 👋
 
 Welcome to my profile.
 ## 🚀 About Me
@@ -61,4 +61,13 @@ As a full-stack developer, I have hands-on experience in developing and integrat
 | Link  | [![Static Badge](https://img.shields.io/badge/application-click%20here-blue)](https://jobnester.com/) |
 
 
+
+
+## Find me on Freelancing Platforms
+
+- [Upwork](https://www.upwork.com/freelancers/~01ea77ca745c32d0ed)
+
+- [Fiverr](https://www.fiverr.com/shirshendughosh)
+
+- [Guru.com](https://www.guru.com/freelancers/shirshendu-ghosh)
 
