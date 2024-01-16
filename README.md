@@ -1,5 +1,5 @@
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Shirshendu! 👋
 
 Welcome to my profile.
 ## 🚀 About Me
