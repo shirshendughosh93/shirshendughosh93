@@ -1,3 +1,4 @@
+
 ### Hi there 👋 I'm Shirshendu
 
 Welcome to my profile.
@@ -13,18 +14,18 @@ As a full-stack developer, I have hands-on experience in developing and integrat
 
 ## 🛠 Skills
 Frontend:
-• React Js
+ React Js
 • Next.js
 • JavaScript
-• HTML/CSS/Saas
+• HTML/CSS/Scss
 • AJAX
 
 Backend:
-• Python
+Python
 • PHP
 
 Frameworks/Libraries:
-• Django
+Django
 • Django Rest Framework (DRF)
 • Laravel
 • JQuery
@@ -35,11 +36,71 @@ Frameworks/Libraries:
 • Formik
 
 Version Control:
-• Github
+Github
 • Bitbucket
 
 DevOps:
-• Docker
+Docker
 • DigitalOcean droplets
+• AWS EC2
+## 🔗 Projects
+### SpotMCQ - A Website for MCQ quetions and answers
+#### Tech Stack
+Backend - Django
+
+Frontend - HTML, CSS, JavaScript, jQuery, AJAX
+
+DB - MySQL
+
+DevOps - Docker, DigitalOcean
+#### Landing Page
+[![Static Badge](https://img.shields.io/badge/click%20here-blue)
+](https://spotmcq.com/)
+
+
+
+### InfinityTruck - An application for tracking and managing logistics solution 
+#### Tech Stack
+Backend - Django Rest Framework
+
+Frontend - React, Redux, Material UI, Formik
+
+DB - MySQL
+
+DevOps - Docker, DigitalOcean
+#### Landing Page
+[![Static Badge](https://img.shields.io/badge/click%20here-blue)
+](https://infinitytruck.in/)
+#### Application Page
+[![Static Badge](https://img.shields.io/badge/click%20here-blue)
+](https://app.infinitytruck.in/)
+
+### BakPak(MVP) - An AI based application for teachers and students
+#### Tech Stack
+Backend - Django Rest Framework
+
+Frontend - React, Redux Toolkit, React Bootstrap, Formik
+
+DB - Postgres
+
+DevOps - Docker, AWS
+#### Application Page
+[![Static Badge](https://img.shields.io/badge/click%20here-blue)
+](http://bakpak.ai/)
+
+### Jobnester - An application for job post and applying
+#### Tech Stack
+Backend - Django Rest Framework, Selenium, Celery
+
+Frontend - Next.Js, React, Redux, Material UI, Formik
+
+DB - MySQL
+
+DevOps - Docker, DigitalOcean
+#### Landing Page
+[![Static Badge](https://img.shields.io/badge/click%20here-blue)
+](https://jobnester.com/)
+
+
 
 
