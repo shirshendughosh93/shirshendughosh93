@@ -65,20 +65,18 @@ As a full-stack developer, I have hands-on experience in developing and integrat
 
 ## Find me on Freelancing Platforms
 
-- [Upwork](https://www.upwork.com/freelancers/~01ea77ca745c32d0ed)
+- [![Static Badge](https://img.shields.io/badge/upwork-black?logo=upwork)](https://www.upwork.com/freelancers/~01ea77ca745c32d0ed)
 
-- [Fiverr](https://www.fiverr.com/shirshendughosh)
+- [![Static Badge](https://img.shields.io/badge/fiverr-black?logo=fiverr)](https://www.fiverr.com/shirshendughosh)
 
-- [Guru.com](https://www.guru.com/freelancers/shirshendu-ghosh)
-
-
+- [![Static Badge](https://img.shields.io/badge/guru.com-black?logo=five)](https://www.guru.com/freelancers/shirshendu-ghosh)
 
 
 ## Socials
 
-- [Skype](https://join.skype.com/invite/r1iP5Ji9NOY4)
+ - [![Static Badge](https://img.shields.io/badge/here-black?logo=x)](https://twitter.com/Shirshendu_ghos)
 
-- [X formerly Twitter](https://twitter.com/Shirshendu_ghos)
+- [![Static Badge](https://img.shields.io/badge/here-black?logo=skype)](https://join.skype.com/invite/r1iP5Ji9NOY4)
 
-- [Gmail](mailto:shirshendu.ghosh93@gmail.com?subject=Test)
+- [![Static Badge](https://img.shields.io/badge/here-black?logo=maildotru)](mailto:shirshendu.ghosh93@gmail.com?subject=Test)
 
